@@ -7,7 +7,7 @@ https://bit.ly/arkadeepnag
 
 MinGW Compiler :
 https://sourceforge.net/projects/mingw/
-![image](https://user-images.githubusercontent.com/66512429/135237146-0ebe0953-64c3-4198-a0fd-4241ca1df26e.png)
+![image](https://user-images.githubusercontent.com/66512429/135237596-557e1aa9-0909-4d60-b3b8-cff73a6aee7a.png)
 
 VS Code:
 https://code.visualstudio.com/
