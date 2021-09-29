@@ -1,0 +1,32 @@
+
+C++ was create by Bjarne Stroustrup in 1985. It was created with an orientation toward system
+programming and embedded, resource-constrained software and large systems, with performance,
+efficiency, and flexibility 
+
+Preprocessor directives
+Defination Section 
+ #include is to import any header material in c++ and c
+iostream is the input output stream used in C++
+#include<iostream>
+Std stands for standard namespace 
+using namespace std;
+This is a standard main variabe declaration in c++
+Global Declaration
+Main function Section b
+int main(){
+    this is a normal declaration of a character variable
+    char a;
+    Taking input . We will use istream from iostream
+    cin>>a;
+    Giving Output . We will use the ostream from iostream
+    cout<<a<<"\n";
+    Simple if statement and would check whether the char a is w or not 
+    if(a='w'){
+        "\t" and "\n" are escape keywords where \t is to give a tab and \n for a 
+        new line
+        cout<<"Its W\t"<<"W for Water";
+
+    }
+    The main variable in our case is returning integer 0
+    return 0;
+}
