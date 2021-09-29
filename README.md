@@ -15,4 +15,4 @@ https://code.visualstudio.com/
 
 Codeblocks (For very low end pc):
 https://www.codeblocks.org/downloads/binaries/
-![image](https://user-images.githubusercontent.com/66512429/135237262-30bee8b0-40ff-4067-865a-d925930055da.png)
+https://i.ytimg.com/vi/iFmTJjT6NQE/maxresdefault.jpg
